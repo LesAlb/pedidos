@@ -7,10 +7,11 @@ Maven \
 PostgreSQL \
 JUnit 5 - Mockito \
 Postman \
-Instrucciones para ejecutar: \ 
-mvn clean install \
 
-mvn spring-boot:run\
+Instrucciones para ejecutar:\ 
+mvn clean install \
+mvn spring-boot:run \
+
 Configuración de base de datos: \
 CREATE DATABASE db_pedidos (PostgreSQL) \
 configuración en application.properties (update: URL, usuario postgres, contraseña admin) \
