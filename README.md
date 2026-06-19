@@ -1,4 +1,4 @@
-API REST de Gestión de Pedidos:\
+API REST de Gestión de Pedidos: \
 
 Tecnologías usadas:\
 Java 21 \
@@ -8,7 +8,7 @@ PostgreSQL \
 JUnit 5 - Mockito \
 Postman \
 
-Instrucciones para ejecutar:\ 
+Instrucciones para ejecutar: \
 mvn clean install \
 mvn spring-boot:run \
 
