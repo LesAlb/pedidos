@@ -7,6 +7,8 @@ Spring Boot (Spring Web, Spring Data JPA, PostgreSQL Driver, Lombok, Validation)
 Maven
 PostgreSQL
 JUnit 5 - Mockito
+Postman
+
 Instrucciones para ejecutar:
 
 mvn clean install
